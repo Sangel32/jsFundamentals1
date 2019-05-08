@@ -11,7 +11,7 @@ switch (friend) {
     case "Carolyn":
     console.log('Hey Carolyn, when are we playing DnD?');
     break;
-    default: // always need this to display 
+    default: // always need this to display // dont always 
     console.log(`I'm sorry, ${friend}, but do i know you?`);
 }
 
